@@ -1,7 +1,11 @@
 # arbetslivsresurs-digitalt-cv
 
-Detta kodrepo innehåller filer för att kunna skapa en mall för digitalt CV i html och CSS.
-Användaren kan anpassa CV'et med färger, sektioner m.m.
+Detta kodrepo är anpassad för kursen Digitalt CV för kursdeltagare hos Arbetslivsresurs, Malmö.
 
-Denna mallen är baserat på W3Schools CV mall skapat med W3CSS.
+Demo: https://www.w3schools.com/w3css/tryw3css_templates_cv.htm
+Anpassa CV online: https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_cv&stacked=h
 
+Vill du lära dig mer?
+Börja med att lära dig HTML & CSS
+HTML: https://www.w3schools.com/html/
+CSS: https://www.w3schools.com/css/
